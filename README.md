@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scout-Tech237
+- 👋 Hi, I’m @Brandon
 - 👀 I’m interested in Mobile development, AI, Machine learning and web development
 - 🌱 I’m currently learning AI and Machine learning 
 - 💞️ I’m looking to collaborate on Big projects linking these fields
